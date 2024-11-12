@@ -38,6 +38,7 @@ Key objectives of the research:
 
 ## Authors
 
-- [Arun Vembu](https://github.com/Av2901)
-- [Akshay Vinayak](https://github.com/GeraltofRivia001)
 - [Madhav Ram Samanvay](https://github.com/gvmadhavram)
+- [Akshay Vinayak](https://github.com/GeraltofRivia001)
+- [Arun Vembu](https://github.com/Av2901)
+
