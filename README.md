@@ -20,7 +20,7 @@ Key objectives of the research:
 | 20 | 1                   | 3.1303                      | QAOA Solution    | N/A (warning during execution) |
 
 ## Visualization of Solutions
-###N-Queens Problem:
+***N-Queens Problem:***
 ![Comparison of Quantum and Classical Model Speeds](https://drive.google.com/uc?export=view&id=1zqCGIj4GsrlCd-cgPinDpzainy0X0jTC)
 
 ## Key Research Topics
