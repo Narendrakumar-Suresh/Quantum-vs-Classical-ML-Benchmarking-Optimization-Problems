@@ -36,7 +36,7 @@ Key objectives of the research:
 - Qiskit or PennyLane (for quantum solutions)
 - NumPy, Matplotlib, and other necessary libraries for classical solutions
 
-## Collaborators
+## Authors
 
 - [Av2901](https://github.com/Av2901)
 - [GeraltofRivia001](https://github.com/GeraltofRivia001)
